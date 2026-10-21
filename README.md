@@ -50,7 +50,7 @@ npm run build
 
 ## 技术栈
 
-- React 18 + Vite 6
+- React 18 + Vite 8
 - CSS-in-JS（内联样式 + CSS 变量）
 - Zinc 色阶扁平设计系统，Inter 字体
 - GitHub Actions → GitHub Pages 自动部署
